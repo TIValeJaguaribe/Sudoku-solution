@@ -1,4 +1,3 @@
-from random import randint
 subBloco = [[],[],[],[],[],[],[],[],[]]
 
 for l in range(9):
