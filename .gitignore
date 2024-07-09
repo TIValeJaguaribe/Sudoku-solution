@@ -1,4 +1,50 @@
 # Byte-compiled / optimized / DLL files
+*.class
+
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+
+# Gradle
+.gradle/
+build/
+
+# IDE (e.g. IntelliJ, Eclipse)
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Compiled Java bytecode
+*.class
+
+# Logs
+*.log
+
+# Package Files
+*.jar
+
+# Maven Wrapper
+.mvn/wrapper/maven-wrapper.jar
+
+# Temporary files
+*.tmp
+
+# macOS specific files/directories
+.DS_Store
+
+# Windows thumbnail cache files
+Thumbs.db
+
+
+# Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
